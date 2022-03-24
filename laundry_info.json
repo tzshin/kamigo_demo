@@ -5,10 +5,10 @@
             "floor": 3,
             "machine_type": "washer",
             "machine_id": 1,
-            "is_laundry": true,
-            "starting_time": "22-03-25_03-04-59",
+            "is_laundry": false,
+            "starting_time": "",
             "bee_id": "Blue_Jay"
         }
     ],
-    "last_update": "22-03-25_03-04-59"
+    "last_update": "22-03-25_03-05-03"
 }
