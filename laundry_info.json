@@ -1,1 +1,14 @@
-{"data": "hello"}
+{
+    "machines": [
+        {
+            "domitory": "F1",
+            "floor": 3,
+            "machine_type": "washer",
+            "machine_id": 1,
+            "is_laundry": false,
+            "starting_time": "",
+            "bee_id": "Blue_Jay"
+        }
+    ],
+    "last_update": "22-03-25_02-48-51"
+}
