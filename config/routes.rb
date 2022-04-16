@@ -12,7 +12,8 @@ Rails.application.routes.draw do
   # 加入好友時的自我介紹訊息
   # get "follow", to: "home#follow"
 
-  get "你好", to "home#greeting"
+  # WTF
+  get "follow", to: "home#follow"
 
   # 加入群組時的自我介紹訊息
   # get "join", to: "home#follow"
