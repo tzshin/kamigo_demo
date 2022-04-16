@@ -13,7 +13,7 @@ Rails.application.routes.draw do
   # get "follow", to: "home#follow"
 
   # WTF
-  get "follow", to: "home#follow"
+  get "你好", to: "home#greeting"
 
   # 加入群組時的自我介紹訊息
   # get "join", to: "home#follow"
