@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
   # 首頁
-  # root to: "home#index"
+  root to: "home#index"
+  
   # get "index", to: "home#index"
 
   # LINE Login 登入
