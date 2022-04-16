@@ -5,9 +5,9 @@ Rails.application.routes.draw do
   get "index", to: "home#index"
 
   # LINE Login 登入
-  # devise_for :users, controllers: {
-  #   omniauth_callbacks: 'omniauth_callbacks'
-  # }
+  devise_for :users, controllers: {
+    omniauth_callbacks: 'omniauth_callbacks'
+  }
 
   # 加入好友時的自我介紹訊息
   # get "follow", to: "home#follow"
